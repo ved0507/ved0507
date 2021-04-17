@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ved0507
+- 👋 Hi, I’m Vedavyas Burli
 - 👀 I’m interested in  RPA + Python + Machine Learning + Neural network 
 - 🌱 I’m currently learning - ChatBot_Sharepoint implementation + Advanced regression + kNN
 - 💞️ I’m looking to collaborate on ML + CICD + Flask + Django project
